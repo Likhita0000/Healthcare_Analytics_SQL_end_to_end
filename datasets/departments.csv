@@ -1,0 +1,7 @@
+dept_id,dept_name,floor_number
+D01,Obstetrics & Gynecology,1
+D02,Fertility & IVF,2
+D03,Menopause Clinic,3
+D04,Breast Health & Oncology,4
+D05,Maternal Fetal Medicine,5
+D06,Radiology & Imaging,2

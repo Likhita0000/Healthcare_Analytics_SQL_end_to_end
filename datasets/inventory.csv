@@ -1,0 +1,601 @@
+item_id,item_name,category,unit_price,stock_qty,reorder_level,supplier_id,expiry_date
+ITM0001,IV Cannula,Surgical,1164.56,482,85,SUP008,
+ITM0002,Folic Acid,Medication,2207.28,448,78,SUP006,2023-12-19
+ITM0003,Cotton Roll,Consumable,562.12,245,39,SUP039,
+ITM0004,Face Mask,Consumable,2515.86,107,68,SUP056,
+ITM0005,Sanitizer,Consumable,2950.32,311,32,SUP028,
+ITM0006,Gauze Pads,Consumable,2309.03,351,66,SUP048,
+ITM0007,IV Cannula,Surgical,1109.42,309,34,SUP005,
+ITM0008,Gauze Pads,Consumable,1687.85,144,57,SUP021,
+ITM0009,Iron Supplements,Medication,2025.32,318,79,SUP050,2023-02-06
+ITM0010,Sanitizer,Consumable,618.97,254,51,SUP020,
+ITM0011,Gauze Pads,Consumable,884.56,77,38,SUP043,
+ITM0012,Ultrasound Gel,Diagnostic,2415.22,407,94,SUP034,
+ITM0013,Blood Collection Tube,Diagnostic,2838.59,308,80,SUP007,
+ITM0014,Pregnancy Test Kit,Diagnostic,853.24,52,54,SUP030,
+ITM0015,Sanitizer,Consumable,485.37,48,50,SUP030,
+ITM0016,IV Cannula,Surgical,2945.78,22,82,SUP015,
+ITM0017,Syringe 5ml,Surgical,993.91,355,72,SUP027,
+ITM0018,Face Mask,Consumable,2346.5,199,56,SUP009,
+ITM0019,Blood Collection Tube,Diagnostic,1168.08,417,10,SUP027,
+ITM0020,Ultrasound Gel,Diagnostic,2849.78,51,29,SUP002,
+ITM0021,Syringe 5ml,Surgical,1818.63,58,28,SUP036,
+ITM0022,IV Fluid,Medication,1274.59,86,74,SUP027,2026-08-18
+ITM0023,Pregnancy Test Kit,Diagnostic,576.08,280,83,SUP047,
+ITM0024,Gauze Pads,Consumable,803.96,336,45,SUP040,
+ITM0025,Suture Pack,Surgical,2578.06,428,32,SUP025,
+ITM0026,Pregnancy Test Kit,Diagnostic,217.99,432,91,SUP036,
+ITM0027,Hormone Injection,Medication,512.69,17,38,SUP040,2026-11-30
+ITM0028,Gauze Pads,Consumable,618.26,12,53,SUP007,
+ITM0029,Scalpel Blade,Surgical,258.51,248,16,SUP013,
+ITM0030,Pain Relief Gel,Medication,2072.64,75,40,SUP037,2025-12-25
+ITM0031,IV Cannula,Surgical,2944.75,375,47,SUP020,
+ITM0032,IV Fluid,Medication,460.64,176,75,SUP054,2022-08-12
+ITM0033,Ultrasound Gel,Diagnostic,2406.85,345,88,SUP022,
+ITM0034,Pregnancy Test Kit,Diagnostic,570.69,406,31,SUP018,
+ITM0035,IV Cannula,Surgical,2922.65,130,84,SUP051,
+ITM0036,Pregnancy Test Kit,Diagnostic,1545.8,410,63,SUP011,
+ITM0037,Syringe 5ml,Surgical,2550.17,101,63,SUP006,
+ITM0038,Surgical Gloves,Surgical,553.14,128,92,SUP004,
+ITM0039,IV Fluid,Medication,2661.51,194,15,SUP003,2022-09-14
+ITM0040,Suture Pack,Surgical,290.84,368,82,SUP052,
+ITM0041,Cotton Roll,Consumable,117.53,464,71,SUP006,
+ITM0042,Blood Collection Tube,Diagnostic,2141.43,248,38,SUP015,
+ITM0043,IV Cannula,Surgical,364.24,290,52,SUP003,
+ITM0044,Cotton Roll,Consumable,2604.12,173,76,SUP017,
+ITM0045,IV Cannula,Surgical,1882.76,41,71,SUP030,
+ITM0046,Sanitizer,Consumable,1026.4,217,22,SUP022,
+ITM0047,Syringe 5ml,Surgical,867.96,109,73,SUP002,
+ITM0048,Pregnancy Test Kit,Diagnostic,291.69,320,56,SUP057,
+ITM0049,Blood Collection Tube,Diagnostic,2075.81,190,69,SUP016,
+ITM0050,Scalpel Blade,Surgical,2755.23,497,24,SUP022,
+ITM0051,Blood Collection Tube,Diagnostic,2282.48,385,14,SUP049,
+ITM0052,Pain Relief Gel,Medication,1877.21,243,78,SUP011,2022-11-30
+ITM0053,Iron Supplements,Medication,400.19,220,11,SUP036,2022-07-05
+ITM0054,Folic Acid,Medication,2491.51,277,47,SUP053,2025-05-13
+ITM0055,Surgical Gloves,Surgical,2897.88,444,63,SUP012,
+ITM0056,Sanitizer,Consumable,825.31,48,48,SUP040,
+ITM0057,Ultrasound Gel,Diagnostic,1290.07,136,29,SUP035,
+ITM0058,Face Mask,Consumable,91.45,227,29,SUP043,
+ITM0059,Suture Pack,Surgical,2504.12,471,38,SUP045,
+ITM0060,Calcium Tablets,Medication,111.2,481,44,SUP057,
+ITM0061,Cotton Roll,Consumable,1485.2,144,41,SUP041,
+ITM0062,Iron Supplements,Medication,1750.58,191,26,SUP015,2024-03-29
+ITM0063,Progesterone Tablets,Medication,213.85,50,60,SUP044,2025-05-01
+ITM0064,Blood Collection Tube,Diagnostic,568.22,358,17,SUP042,
+ITM0065,Scalpel Blade,Surgical,2382.96,204,30,SUP059,
+ITM0066,Pain Relief Gel,Medication,794.97,310,32,SUP021,2025-11-26
+ITM0067,Antibiotic Syrup,Medication,2187.93,45,60,SUP004,2022-09-25
+ITM0068,Blood Collection Tube,Diagnostic,2260.1,394,15,SUP007,
+ITM0069,Antibiotic Syrup,Medication,1251.59,486,61,SUP029,
+ITM0070,Cotton Roll,Consumable,238.07,122,17,SUP041,
+ITM0071,Suture Pack,Surgical,81.88,384,78,SUP006,
+ITM0072,Blood Collection Tube,Diagnostic,1502.92,251,42,SUP039,
+ITM0073,Scalpel Blade,Surgical,260.79,6,71,SUP017,
+ITM0074,Calcium Tablets,Medication,2193.09,18,74,SUP036,2026-12-17
+ITM0075,Syringe 5ml,Surgical,1173.43,120,72,SUP002,
+ITM0076,Folic Acid,Medication,2065.71,325,97,SUP017,2022-08-28
+ITM0077,Calcium Tablets,Medication,1254.08,165,41,SUP029,2025-03-30
+ITM0078,Gauze Pads,Consumable,1903.59,99,64,SUP027,
+ITM0079,Blood Collection Tube,Diagnostic,2507.4,412,42,SUP007,
+ITM0080,Iron Supplements,Medication,2659.14,215,47,SUP011,2024-12-06
+ITM0081,Progesterone Tablets,Medication,99.8,474,11,SUP026,2026-09-02
+ITM0082,Blood Collection Tube,Diagnostic,1954.24,51,90,SUP052,
+ITM0083,Suture Pack,Surgical,1714.2,143,19,SUP050,
+ITM0084,Cotton Roll,Consumable,1929.26,34,75,SUP053,
+ITM0085,Pregnancy Test Kit,Diagnostic,221.38,27,85,SUP039,
+ITM0086,Scalpel Blade,Surgical,256.19,155,24,SUP032,
+ITM0087,Pain Relief Gel,Medication,1516.09,406,96,SUP050,2026-09-04
+ITM0088,Pregnancy Test Kit,Diagnostic,218.49,102,91,SUP023,
+ITM0089,Pregnancy Test Kit,Diagnostic,2340.41,478,70,SUP051,
+ITM0090,Calcium Tablets,Medication,2328.81,59,40,SUP046,2026-01-11
+ITM0091,IV Cannula,Surgical,396.11,70,47,SUP040,
+ITM0092,Pregnancy Test Kit,Diagnostic,1392.42,40,38,SUP007,
+ITM0093,Surgical Gloves,Surgical,1805.19,411,87,SUP001,
+ITM0094,Calcium Tablets,Medication,2585.36,358,52,SUP025,2023-07-24
+ITM0095,Ultrasound Gel,Diagnostic,2965.87,447,32,SUP031,
+ITM0096,Pain Relief Gel,Medication,100.8,444,34,SUP006,2025-07-27
+ITM0097,Gauze Pads,Consumable,1455.2,414,37,SUP028,
+ITM0098,Folic Acid,Medication,2419.69,466,81,SUP031,2024-04-12
+ITM0099,Blood Collection Tube,Diagnostic,2397.8,229,92,SUP036,
+ITM0100,Face Mask,Consumable,1648.41,432,10,SUP016,
+ITM0101,Ultrasound Gel,Diagnostic,587.66,428,29,SUP015,
+ITM0102,Calcium Tablets,Medication,1699.33,429,38,SUP022,2024-06-07
+ITM0103,IV Fluid,Medication,1205.09,108,17,SUP018,2022-08-31
+ITM0104,Ultrasound Gel,Diagnostic,1256.89,302,71,SUP050,
+ITM0105,Gauze Pads,Consumable,1019.57,489,23,SUP008,
+ITM0106,Pregnancy Test Kit,Diagnostic,476.24,399,47,SUP010,
+ITM0107,Gauze Pads,Consumable,2227.81,118,12,SUP037,
+ITM0108,Pregnancy Test Kit,Diagnostic,2140.04,280,12,SUP039,
+ITM0109,Antibiotic Syrup,Medication,1651.35,137,64,SUP049,2022-09-04
+ITM0110,Pregnancy Test Kit,Diagnostic,1096.65,131,87,SUP006,
+ITM0111,Surgical Gloves,Surgical,2476.92,241,30,SUP043,
+ITM0112,Gauze Pads,Consumable,521.71,282,44,SUP059,
+ITM0113,Suture Pack,Surgical,1331.98,66,53,SUP010,
+ITM0114,Ultrasound Gel,Diagnostic,1977.86,401,53,SUP039,
+ITM0115,Face Mask,Consumable,2473.42,277,52,SUP058,
+ITM0116,Iron Supplements,Medication,1966.35,36,50,SUP007,2025-10-13
+ITM0117,Cotton Roll,Consumable,397.23,258,36,SUP042,
+ITM0118,IV Cannula,Surgical,348.81,215,37,SUP045,
+ITM0119,Cotton Roll,Consumable,198.78,261,14,SUP035,
+ITM0120,Ultrasound Gel,Diagnostic,1701.93,399,52,SUP028,
+ITM0121,Syringe 5ml,Surgical,766.67,237,72,SUP025,
+ITM0122,Suture Pack,Surgical,520.61,38,48,SUP028,
+ITM0123,Cotton Roll,Consumable,300.67,417,19,SUP009,
+ITM0124,IV Cannula,Surgical,1943.27,472,72,SUP005,
+ITM0125,Sanitizer,Consumable,2272.57,283,18,SUP057,
+ITM0126,Suture Pack,Surgical,2580.41,61,93,SUP016,
+ITM0127,Sanitizer,Consumable,1806.47,305,38,SUP029,
+ITM0128,Scalpel Blade,Surgical,1095.0,263,37,SUP043,
+ITM0129,Gauze Pads,Consumable,1437.72,30,20,SUP055,
+ITM0130,Face Mask,Consumable,1926.64,81,94,SUP023,
+ITM0131,Progesterone Tablets,Medication,2153.36,20,96,SUP057,2025-06-02
+ITM0132,Suture Pack,Surgical,1952.28,452,24,SUP018,
+ITM0133,Surgical Gloves,Surgical,2887.62,288,90,SUP026,
+ITM0134,Ultrasound Gel,Diagnostic,2263.12,94,33,SUP047,
+ITM0135,IV Cannula,Surgical,2264.33,145,44,SUP005,
+ITM0136,Gauze Pads,Consumable,2468.43,130,70,SUP008,
+ITM0137,Pregnancy Test Kit,Diagnostic,1408.12,264,29,SUP040,
+ITM0138,Sanitizer,Consumable,828.64,274,67,SUP019,
+ITM0139,Pain Relief Gel,Medication,2457.9,369,72,SUP037,2025-06-18
+ITM0140,Surgical Gloves,Surgical,1419.33,460,84,SUP028,
+ITM0141,Pregnancy Test Kit,Diagnostic,1841.17,418,69,SUP004,
+ITM0142,Iron Supplements,Medication,1317.29,95,48,SUP020,2023-03-06
+ITM0143,IV Fluid,Medication,1218.37,488,29,SUP050,2026-02-06
+ITM0144,Blood Collection Tube,Diagnostic,2030.22,147,95,SUP022,
+ITM0145,Pregnancy Test Kit,Diagnostic,2012.76,112,97,SUP012,
+ITM0146,Surgical Gloves,Surgical,961.62,233,67,SUP001,
+ITM0147,Suture Pack,Surgical,607.51,462,73,SUP008,
+ITM0148,Blood Collection Tube,Diagnostic,437.41,403,23,SUP060,
+ITM0149,Progesterone Tablets,Medication,385.65,11,45,SUP058,2023-09-06
+ITM0150,Blood Collection Tube,Diagnostic,2462.21,126,22,SUP041,
+ITM0151,IV Fluid,Medication,894.14,245,10,SUP027,2026-05-15
+ITM0152,Calcium Tablets,Medication,2051.7,79,22,SUP021,2022-03-15
+ITM0153,Gauze Pads,Consumable,897.9,206,44,SUP045,
+ITM0154,Scalpel Blade,Surgical,2016.93,359,17,SUP054,
+ITM0155,Progesterone Tablets,Medication,2953.22,361,27,SUP033,2022-03-26
+ITM0156,Calcium Tablets,Medication,244.57,99,43,SUP038,
+ITM0157,IV Fluid,Medication,1978.58,331,61,SUP033,
+ITM0158,Progesterone Tablets,Medication,883.62,93,79,SUP046,2024-06-15
+ITM0159,Pain Relief Gel,Medication,294.54,35,67,SUP037,2026-08-30
+ITM0160,Folic Acid,Medication,282.98,54,36,SUP045,2024-04-08
+ITM0161,Surgical Gloves,Surgical,1146.41,81,27,SUP057,
+ITM0162,Pain Relief Gel,Medication,1644.8,463,66,SUP005,2024-12-26
+ITM0163,Cotton Roll,Consumable,1959.52,37,18,SUP015,
+ITM0164,Cotton Roll,Consumable,1724.21,432,73,SUP030,
+ITM0165,Surgical Gloves,Surgical,2698.97,302,88,SUP003,
+ITM0166,Face Mask,Consumable,502.93,15,32,SUP028,
+ITM0167,Cotton Roll,Consumable,2495.57,146,68,SUP030,
+ITM0168,IV Cannula,Surgical,1608.27,415,76,SUP036,
+ITM0169,Calcium Tablets,Medication,2588.66,116,82,SUP003,2024-05-31
+ITM0170,Scalpel Blade,Surgical,1308.66,460,31,SUP052,
+ITM0171,Calcium Tablets,Medication,1471.31,498,59,SUP044,2025-09-22
+ITM0172,Syringe 5ml,Surgical,1295.84,166,32,SUP060,
+ITM0173,Ultrasound Gel,Diagnostic,334.57,205,93,SUP058,
+ITM0174,Cotton Roll,Consumable,477.77,127,61,SUP031,
+ITM0175,Progesterone Tablets,Medication,1576.71,439,16,SUP014,
+ITM0176,Surgical Gloves,Surgical,1622.97,294,26,SUP006,
+ITM0177,Pain Relief Gel,Medication,1430.0,213,12,SUP019,
+ITM0178,Cotton Roll,Consumable,87.89,384,16,SUP005,
+ITM0179,Ultrasound Gel,Diagnostic,1541.45,491,86,SUP055,
+ITM0180,Cotton Roll,Consumable,444.49,328,50,SUP049,
+ITM0181,Calcium Tablets,Medication,1720.8,381,32,SUP051,2026-10-13
+ITM0182,Hormone Injection,Medication,900.41,59,46,SUP059,2026-10-03
+ITM0183,Surgical Gloves,Surgical,2974.92,153,77,SUP054,
+ITM0184,Blood Collection Tube,Diagnostic,1109.78,433,82,SUP026,
+ITM0185,Suture Pack,Surgical,2471.38,295,79,SUP050,
+ITM0186,IV Cannula,Surgical,774.5,108,73,SUP056,
+ITM0187,Suture Pack,Surgical,608.98,68,27,SUP055,
+ITM0188,Blood Collection Tube,Diagnostic,702.21,305,44,SUP044,
+ITM0189,Cotton Roll,Consumable,1032.7,54,32,SUP018,
+ITM0190,Ultrasound Gel,Diagnostic,2554.16,409,93,SUP037,
+ITM0191,Folic Acid,Medication,2303.68,248,16,SUP045,2024-10-04
+ITM0192,Ultrasound Gel,Diagnostic,1334.51,237,70,SUP036,
+ITM0193,Suture Pack,Surgical,604.86,109,85,SUP031,
+ITM0194,Folic Acid,Medication,193.69,459,58,SUP018,2023-06-24
+ITM0195,Antibiotic Syrup,Medication,1874.7,289,66,SUP052,2023-01-16
+ITM0196,Cotton Roll,Consumable,2134.92,374,77,SUP009,
+ITM0197,Pregnancy Test Kit,Diagnostic,1838.11,98,21,SUP026,
+ITM0198,Suture Pack,Surgical,1528.7,42,24,SUP002,
+ITM0199,Calcium Tablets,Medication,2919.94,74,11,SUP058,2023-07-22
+ITM0200,Pregnancy Test Kit,Diagnostic,122.76,21,56,SUP032,
+ITM0201,Pregnancy Test Kit,Diagnostic,2965.8,266,84,SUP042,
+ITM0202,Blood Collection Tube,Diagnostic,865.13,430,65,SUP045,
+ITM0203,Blood Collection Tube,Diagnostic,1180.28,227,23,SUP006,
+ITM0204,Surgical Gloves,Surgical,2269.98,248,36,SUP020,
+ITM0205,Face Mask,Consumable,719.99,359,13,SUP008,
+ITM0206,IV Cannula,Surgical,2144.06,382,47,SUP045,
+ITM0207,Ultrasound Gel,Diagnostic,1031.03,420,93,SUP004,
+ITM0208,Blood Collection Tube,Diagnostic,2824.65,367,11,SUP025,
+ITM0209,Iron Supplements,Medication,556.54,341,13,SUP031,2026-12-19
+ITM0210,IV Cannula,Surgical,2798.76,432,33,SUP058,
+ITM0211,Pregnancy Test Kit,Diagnostic,2383.67,131,18,SUP019,
+ITM0212,Blood Collection Tube,Diagnostic,552.2,147,28,SUP007,
+ITM0213,Hormone Injection,Medication,1193.51,338,71,SUP047,2023-03-09
+ITM0214,Blood Collection Tube,Diagnostic,357.67,52,81,SUP037,
+ITM0215,Cotton Roll,Consumable,1819.18,214,50,SUP030,
+ITM0216,Ultrasound Gel,Diagnostic,2883.56,12,86,SUP027,
+ITM0217,Blood Collection Tube,Diagnostic,283.73,422,81,SUP017,
+ITM0218,Ultrasound Gel,Diagnostic,811.43,84,87,SUP032,
+ITM0219,Gauze Pads,Consumable,2278.3,324,59,SUP019,
+ITM0220,Suture Pack,Surgical,1402.03,171,83,SUP025,
+ITM0221,Antibiotic Syrup,Medication,1049.92,38,93,SUP029,2024-04-17
+ITM0222,Iron Supplements,Medication,1823.51,476,74,SUP025,2023-02-11
+ITM0223,Gauze Pads,Consumable,917.21,488,85,SUP053,
+ITM0224,Pregnancy Test Kit,Diagnostic,1020.13,480,93,SUP032,
+ITM0225,Gauze Pads,Consumable,2428.03,197,85,SUP037,
+ITM0226,Folic Acid,Medication,1205.17,456,21,SUP011,
+ITM0227,Pregnancy Test Kit,Diagnostic,2116.64,497,48,SUP004,
+ITM0228,Cotton Roll,Consumable,494.75,104,38,SUP046,
+ITM0229,Gauze Pads,Consumable,1226.52,416,67,SUP031,
+ITM0230,Surgical Gloves,Surgical,1678.17,187,76,SUP036,
+ITM0231,Calcium Tablets,Medication,838.53,331,80,SUP004,2025-11-03
+ITM0232,Folic Acid,Medication,1293.72,491,96,SUP002,2025-04-30
+ITM0233,Ultrasound Gel,Diagnostic,2291.48,459,86,SUP039,
+ITM0234,Face Mask,Consumable,526.44,122,84,SUP051,
+ITM0235,Suture Pack,Surgical,1527.22,4,34,SUP033,
+ITM0236,IV Fluid,Medication,822.26,313,93,SUP044,2022-09-23
+ITM0237,Cotton Roll,Consumable,1260.2,88,58,SUP027,
+ITM0238,Ultrasound Gel,Diagnostic,1157.39,484,72,SUP026,
+ITM0239,Cotton Roll,Consumable,1983.25,296,36,SUP019,
+ITM0240,Hormone Injection,Medication,2313.15,219,79,SUP057,2023-02-22
+ITM0241,Suture Pack,Surgical,1524.23,252,79,SUP044,
+ITM0242,IV Cannula,Surgical,541.43,364,67,SUP041,
+ITM0243,Sanitizer,Consumable,2612.44,398,18,SUP058,
+ITM0244,Iron Supplements,Medication,599.3,218,94,SUP039,2025-04-03
+ITM0245,Ultrasound Gel,Diagnostic,1756.43,253,91,SUP033,
+ITM0246,Hormone Injection,Medication,1605.54,30,10,SUP038,2023-07-06
+ITM0247,Scalpel Blade,Surgical,895.65,255,85,SUP010,
+ITM0248,Surgical Gloves,Surgical,2861.19,270,74,SUP001,
+ITM0249,Pregnancy Test Kit,Diagnostic,2046.16,253,33,SUP050,
+ITM0250,Progesterone Tablets,Medication,1436.44,253,28,SUP035,2025-09-21
+ITM0251,Ultrasound Gel,Diagnostic,1358.28,350,23,SUP011,
+ITM0252,Progesterone Tablets,Medication,322.74,320,23,SUP059,2024-11-22
+ITM0253,Pregnancy Test Kit,Diagnostic,2353.01,481,99,SUP014,
+ITM0254,Sanitizer,Consumable,296.75,222,89,SUP006,
+ITM0255,Sanitizer,Consumable,642.13,82,97,SUP043,
+ITM0256,Pregnancy Test Kit,Diagnostic,535.26,378,41,SUP039,
+ITM0257,Gauze Pads,Consumable,251.06,297,15,SUP040,
+ITM0258,Surgical Gloves,Surgical,2497.27,96,32,SUP025,
+ITM0259,Pain Relief Gel,Medication,2723.57,287,28,SUP023,2023-11-21
+ITM0260,Syringe 5ml,Surgical,1895.28,2,98,SUP054,
+ITM0261,Gauze Pads,Consumable,2639.38,96,98,SUP005,
+ITM0262,Iron Supplements,Medication,2041.44,107,11,SUP026,2023-03-09
+ITM0263,Face Mask,Consumable,2070.77,202,83,SUP018,
+ITM0264,Hormone Injection,Medication,2673.94,357,50,SUP032,
+ITM0265,IV Fluid,Medication,321.19,379,62,SUP047,2024-05-27
+ITM0266,Pregnancy Test Kit,Diagnostic,211.46,456,36,SUP056,
+ITM0267,Gauze Pads,Consumable,208.1,39,17,SUP021,
+ITM0268,Sanitizer,Consumable,1282.82,452,52,SUP026,
+ITM0269,Scalpel Blade,Surgical,2841.86,4,42,SUP050,
+ITM0270,Antibiotic Syrup,Medication,2616.3,336,52,SUP035,
+ITM0271,Antibiotic Syrup,Medication,2356.79,226,92,SUP010,2026-04-06
+ITM0272,Syringe 5ml,Surgical,1241.55,227,39,SUP058,
+ITM0273,Cotton Roll,Consumable,2481.34,473,43,SUP028,
+ITM0274,Face Mask,Consumable,694.55,446,87,SUP031,
+ITM0275,Face Mask,Consumable,1776.79,421,29,SUP015,
+ITM0276,Gauze Pads,Consumable,2250.47,337,96,SUP055,
+ITM0277,Calcium Tablets,Medication,322.7,163,71,SUP058,2026-03-26
+ITM0278,Blood Collection Tube,Diagnostic,2628.7,262,88,SUP040,
+ITM0279,Suture Pack,Surgical,2195.59,231,11,SUP053,
+ITM0280,Face Mask,Consumable,1623.17,258,97,SUP058,
+ITM0281,Cotton Roll,Consumable,234.1,374,97,SUP008,
+ITM0282,Blood Collection Tube,Diagnostic,2098.83,295,89,SUP046,
+ITM0283,Face Mask,Consumable,1369.39,82,77,SUP010,
+ITM0284,IV Cannula,Surgical,2223.2,379,88,SUP045,
+ITM0285,IV Fluid,Medication,157.29,148,92,SUP010,
+ITM0286,Suture Pack,Surgical,1745.54,336,28,SUP038,
+ITM0287,IV Cannula,Surgical,1368.71,101,44,SUP018,
+ITM0288,Gauze Pads,Consumable,1317.96,211,29,SUP048,
+ITM0289,Calcium Tablets,Medication,1576.84,153,50,SUP028,2023-02-23
+ITM0290,Blood Collection Tube,Diagnostic,414.82,306,38,SUP028,
+ITM0291,Antibiotic Syrup,Medication,2809.58,348,24,SUP050,
+ITM0292,Face Mask,Consumable,2128.87,31,93,SUP056,
+ITM0293,Suture Pack,Surgical,300.31,453,41,SUP020,
+ITM0294,Suture Pack,Surgical,284.41,382,22,SUP024,
+ITM0295,IV Cannula,Surgical,671.45,66,16,SUP057,
+ITM0296,Syringe 5ml,Surgical,757.18,115,63,SUP006,
+ITM0297,Sanitizer,Consumable,1501.84,166,25,SUP041,
+ITM0298,Syringe 5ml,Surgical,1632.54,221,19,SUP048,
+ITM0299,Face Mask,Consumable,480.13,211,65,SUP032,
+ITM0300,Suture Pack,Surgical,2921.92,89,75,SUP006,
+ITM0301,Face Mask,Consumable,2483.07,171,47,SUP011,
+ITM0302,Antibiotic Syrup,Medication,1918.79,81,62,SUP030,2024-08-04
+ITM0303,Ultrasound Gel,Diagnostic,869.82,418,91,SUP003,
+ITM0304,Blood Collection Tube,Diagnostic,2735.5,96,43,SUP008,
+ITM0305,Cotton Roll,Consumable,979.97,318,94,SUP033,
+ITM0306,IV Fluid,Medication,991.75,350,94,SUP054,2024-03-11
+ITM0307,Face Mask,Consumable,1091.13,449,10,SUP047,
+ITM0308,Pregnancy Test Kit,Diagnostic,191.41,121,88,SUP047,
+ITM0309,Ultrasound Gel,Diagnostic,232.47,388,83,SUP019,
+ITM0310,Cotton Roll,Consumable,1453.62,64,68,SUP058,
+ITM0311,Pregnancy Test Kit,Diagnostic,2651.17,217,34,SUP010,
+ITM0312,Surgical Gloves,Surgical,2830.01,254,41,SUP019,
+ITM0313,Pregnancy Test Kit,Diagnostic,2338.37,271,40,SUP009,
+ITM0314,Suture Pack,Surgical,1243.04,292,83,SUP007,
+ITM0315,Sanitizer,Consumable,965.95,78,12,SUP014,
+ITM0316,Surgical Gloves,Surgical,686.33,459,95,SUP002,
+ITM0317,Syringe 5ml,Surgical,1638.43,366,75,SUP022,
+ITM0318,Syringe 5ml,Surgical,1473.26,128,96,SUP060,
+ITM0319,Surgical Gloves,Surgical,1427.35,249,50,SUP045,
+ITM0320,Pain Relief Gel,Medication,982.86,5,71,SUP020,2025-05-04
+ITM0321,Scalpel Blade,Surgical,1766.68,204,62,SUP026,
+ITM0322,Sanitizer,Consumable,1843.4,369,97,SUP059,
+ITM0323,Gauze Pads,Consumable,2631.82,67,42,SUP055,
+ITM0324,Syringe 5ml,Surgical,2296.14,134,22,SUP004,
+ITM0325,Cotton Roll,Consumable,1023.17,281,48,SUP039,
+ITM0326,Scalpel Blade,Surgical,1169.63,153,38,SUP054,
+ITM0327,Ultrasound Gel,Diagnostic,756.52,165,34,SUP040,
+ITM0328,Blood Collection Tube,Diagnostic,554.01,180,28,SUP023,
+ITM0329,Blood Collection Tube,Diagnostic,371.23,44,74,SUP016,
+ITM0330,Syringe 5ml,Surgical,150.66,241,25,SUP025,
+ITM0331,Pregnancy Test Kit,Diagnostic,1282.16,348,81,SUP052,
+ITM0332,Scalpel Blade,Surgical,2879.41,202,80,SUP009,
+ITM0333,Folic Acid,Medication,1637.13,35,94,SUP053,2024-07-24
+ITM0334,Blood Collection Tube,Diagnostic,2239.36,106,84,SUP011,
+ITM0335,Hormone Injection,Medication,1223.28,198,99,SUP025,2023-08-29
+ITM0336,Pregnancy Test Kit,Diagnostic,1184.0,363,69,SUP031,
+ITM0337,Sanitizer,Consumable,419.35,455,88,SUP046,
+ITM0338,Folic Acid,Medication,934.56,414,66,SUP027,2026-06-19
+ITM0339,Cotton Roll,Consumable,2789.58,199,54,SUP036,
+ITM0340,Ultrasound Gel,Diagnostic,1496.09,166,61,SUP051,
+ITM0341,Blood Collection Tube,Diagnostic,652.81,121,15,SUP047,
+ITM0342,Pregnancy Test Kit,Diagnostic,2008.07,60,69,SUP014,
+ITM0343,Pregnancy Test Kit,Diagnostic,1246.07,363,46,SUP023,
+ITM0344,Gauze Pads,Consumable,2490.64,265,63,SUP016,
+ITM0345,IV Cannula,Surgical,323.84,455,13,SUP020,
+ITM0346,Calcium Tablets,Medication,1589.33,28,92,SUP053,2026-07-09
+ITM0347,Gauze Pads,Consumable,2413.58,468,56,SUP003,
+ITM0348,Gauze Pads,Consumable,2568.66,192,94,SUP006,
+ITM0349,Face Mask,Consumable,1219.22,463,46,SUP029,
+ITM0350,Antibiotic Syrup,Medication,2236.07,38,91,SUP004,2022-10-28
+ITM0351,Blood Collection Tube,Diagnostic,2898.84,247,51,SUP001,
+ITM0352,Face Mask,Consumable,1884.69,155,57,SUP050,
+ITM0353,Face Mask,Consumable,2444.19,329,70,SUP008,
+ITM0354,Suture Pack,Surgical,1742.56,349,71,SUP048,
+ITM0355,Ultrasound Gel,Diagnostic,2381.13,342,64,SUP020,
+ITM0356,Syringe 5ml,Surgical,2825.06,356,46,SUP060,
+ITM0357,Ultrasound Gel,Diagnostic,2148.81,384,24,SUP016,
+ITM0358,Face Mask,Consumable,505.56,479,68,SUP047,
+ITM0359,Ultrasound Gel,Diagnostic,291.66,112,72,SUP031,
+ITM0360,Pregnancy Test Kit,Diagnostic,2445.66,290,75,SUP032,
+ITM0361,Gauze Pads,Consumable,812.18,256,51,SUP058,
+ITM0362,Calcium Tablets,Medication,2632.03,69,40,SUP034,2025-11-22
+ITM0363,Progesterone Tablets,Medication,628.66,8,15,SUP029,2026-08-18
+ITM0364,Ultrasound Gel,Diagnostic,2737.59,463,28,SUP012,
+ITM0365,Sanitizer,Consumable,2425.39,373,47,SUP004,
+ITM0366,IV Fluid,Medication,2649.73,462,88,SUP055,2025-01-15
+ITM0367,Surgical Gloves,Surgical,736.49,-1,42,SUP043,
+ITM0368,Cotton Roll,Consumable,2641.67,295,99,SUP034,
+ITM0369,Syringe 5ml,Surgical,1783.3,181,62,SUP006,
+ITM0370,Cotton Roll,Consumable,297.82,195,39,SUP049,
+ITM0371,Suture Pack,Surgical,2796.57,472,84,SUP060,
+ITM0372,Pregnancy Test Kit,Diagnostic,624.19,484,74,SUP051,
+ITM0373,Antibiotic Syrup,Medication,679.82,293,23,SUP009,2025-10-16
+ITM0374,Blood Collection Tube,Diagnostic,2126.89,480,19,SUP005,
+ITM0375,Folic Acid,Medication,1770.04,431,26,SUP046,2022-05-07
+ITM0376,Calcium Tablets,Medication,2713.82,245,84,SUP016,2023-11-01
+ITM0377,Antibiotic Syrup,Medication,955.51,149,24,SUP059,2025-07-01
+ITM0378,Gauze Pads,Consumable,173.08,370,85,SUP056,
+ITM0379,Ultrasound Gel,Diagnostic,2985.25,191,12,SUP001,
+ITM0380,Progesterone Tablets,Medication,972.59,63,31,SUP020,2025-02-08
+ITM0381,Suture Pack,Surgical,527.68,42,65,SUP035,
+ITM0382,Hormone Injection,Medication,2953.92,498,68,SUP010,2025-04-13
+ITM0383,Folic Acid,Medication,1710.54,243,35,SUP025,2024-09-03
+ITM0384,Ultrasound Gel,Diagnostic,489.13,226,59,SUP047,
+ITM0385,Antibiotic Syrup,Medication,2515.67,457,96,SUP055,2022-07-29
+ITM0386,Gauze Pads,Consumable,2838.99,105,89,SUP028,
+ITM0387,Surgical Gloves,Surgical,2649.78,323,70,SUP035,
+ITM0388,Cotton Roll,Consumable,635.93,361,64,SUP033,
+ITM0389,Blood Collection Tube,Diagnostic,205.43,275,73,SUP045,
+ITM0390,Syringe 5ml,Surgical,1145.33,130,12,SUP015,
+ITM0391,Gauze Pads,Consumable,1096.79,72,39,SUP021,
+ITM0392,IV Cannula,Surgical,1247.46,225,67,SUP042,
+ITM0393,Cotton Roll,Consumable,2406.99,249,22,SUP035,
+ITM0394,IV Cannula,Surgical,78.46,154,81,SUP059,
+ITM0395,Pain Relief Gel,Medication,2040.7,473,33,SUP050,2025-01-02
+ITM0396,Scalpel Blade,Surgical,2956.2,55,78,SUP051,
+ITM0397,Face Mask,Consumable,1227.5,81,16,SUP053,
+ITM0398,Syringe 5ml,Surgical,1480.92,486,60,SUP037,
+ITM0399,Sanitizer,Consumable,1902.53,-5,63,SUP010,
+ITM0400,Face Mask,Consumable,892.47,105,60,SUP056,
+ITM0401,IV Cannula,Surgical,2169.63,153,36,SUP016,
+ITM0402,Pregnancy Test Kit,Diagnostic,648.84,449,21,SUP020,
+ITM0403,Sanitizer,Consumable,241.14,393,50,SUP050,
+ITM0404,Face Mask,Consumable,2413.92,228,98,SUP008,
+ITM0405,Syringe 5ml,Surgical,570.73,64,42,SUP045,
+ITM0406,Pregnancy Test Kit,Diagnostic,2207.91,394,88,SUP031,
+ITM0407,Calcium Tablets,Medication,2620.36,456,40,SUP008,2024-06-14
+ITM0408,Folic Acid,Medication,185.04,358,20,SUP058,2024-08-08
+ITM0409,Face Mask,Consumable,2134.75,75,45,SUP013,
+ITM0410,Blood Collection Tube,Diagnostic,1956.39,196,15,SUP024,
+ITM0411,IV Cannula,Surgical,1890.44,87,54,SUP012,
+ITM0412,Syringe 5ml,Surgical,921.31,356,69,SUP045,
+ITM0413,Blood Collection Tube,Diagnostic,184.61,66,99,SUP059,
+ITM0414,Blood Collection Tube,Diagnostic,340.53,51,81,SUP017,
+ITM0415,IV Fluid,Medication,855.1,5,46,SUP047,2025-11-28
+ITM0416,IV Cannula,Surgical,1248.26,140,39,SUP060,
+ITM0417,Blood Collection Tube,Diagnostic,2758.39,423,47,SUP041,
+ITM0418,Blood Collection Tube,Diagnostic,2068.02,142,25,SUP052,
+ITM0419,Hormone Injection,Medication,127.05,202,88,SUP036,2023-10-23
+ITM0420,Blood Collection Tube,Diagnostic,2763.16,85,47,SUP056,
+ITM0421,Folic Acid,Medication,2175.03,81,62,SUP012,2022-07-07
+ITM0422,Pregnancy Test Kit,Diagnostic,1503.09,392,17,SUP056,
+ITM0423,Folic Acid,Medication,1415.9,454,18,SUP054,2025-03-02
+ITM0424,Calcium Tablets,Medication,2802.89,103,30,SUP036,2023-11-02
+ITM0425,IV Cannula,Surgical,1672.52,277,50,SUP013,
+ITM0426,IV Fluid,Medication,1533.19,199,78,SUP035,2026-08-13
+ITM0427,Ultrasound Gel,Diagnostic,2335.14,458,28,SUP005,
+ITM0428,Pain Relief Gel,Medication,1799.69,91,89,SUP013,2023-12-11
+ITM0429,Gauze Pads,Consumable,784.14,466,27,SUP046,
+ITM0430,IV Cannula,Surgical,2996.69,454,85,SUP008,
+ITM0431,Sanitizer,Consumable,878.3,259,89,SUP055,
+ITM0432,Blood Collection Tube,Diagnostic,2065.22,263,14,SUP011,
+ITM0433,Pain Relief Gel,Medication,1494.72,423,76,SUP008,2023-12-11
+ITM0434,Cotton Roll,Consumable,409.41,258,80,SUP031,
+ITM0435,Scalpel Blade,Surgical,2878.99,108,41,SUP012,
+ITM0436,Ultrasound Gel,Diagnostic,1040.4,306,87,SUP011,
+ITM0437,Suture Pack,Surgical,1988.2,498,97,SUP017,
+ITM0438,Syringe 5ml,Surgical,2226.24,460,57,SUP027,
+ITM0439,Blood Collection Tube,Diagnostic,1214.41,213,42,SUP013,
+ITM0440,Cotton Roll,Consumable,819.18,227,78,SUP036,
+ITM0441,Face Mask,Consumable,223.76,91,81,SUP013,
+ITM0442,Hormone Injection,Medication,2857.12,1,11,SUP041,2026-08-20
+ITM0443,Sanitizer,Consumable,1767.14,71,63,SUP022,
+ITM0444,Face Mask,Consumable,2163.41,122,51,SUP046,
+ITM0445,Progesterone Tablets,Medication,1433.11,393,44,SUP044,2026-02-25
+ITM0446,Scalpel Blade,Surgical,737.96,476,70,SUP058,
+ITM0447,Sanitizer,Consumable,2986.47,178,69,SUP024,
+ITM0448,Blood Collection Tube,Diagnostic,2903.82,98,58,SUP030,
+ITM0449,Antibiotic Syrup,Medication,2586.98,78,32,SUP013,2022-08-14
+ITM0450,Calcium Tablets,Medication,2752.58,434,77,SUP008,2026-11-16
+ITM0451,Suture Pack,Surgical,1746.37,287,44,SUP005,
+ITM0452,Pregnancy Test Kit,Diagnostic,1134.98,58,23,SUP043,
+ITM0453,Ultrasound Gel,Diagnostic,1062.3,227,31,SUP056,
+ITM0454,Syringe 5ml,Surgical,2804.49,11,39,SUP052,
+ITM0455,Ultrasound Gel,Diagnostic,2878.65,87,12,SUP006,
+ITM0456,Cotton Roll,Consumable,1349.43,271,84,SUP007,
+ITM0457,Scalpel Blade,Surgical,1840.92,72,19,SUP054,
+ITM0458,Syringe 5ml,Surgical,2425.55,471,76,SUP022,
+ITM0459,Iron Supplements,Medication,2122.4,355,50,SUP056,2026-01-03
+ITM0460,Gauze Pads,Consumable,2615.55,105,57,SUP030,
+ITM0461,Face Mask,Consumable,1845.47,336,59,SUP015,
+ITM0462,Antibiotic Syrup,Medication,1768.32,302,78,SUP037,
+ITM0463,Ultrasound Gel,Diagnostic,1158.55,411,67,SUP056,
+ITM0464,Calcium Tablets,Medication,266.17,71,24,SUP041,2024-01-25
+ITM0465,Hormone Injection,Medication,213.85,228,57,SUP060,2026-01-08
+ITM0466,Blood Collection Tube,Diagnostic,497.67,89,15,SUP020,
+ITM0467,Antibiotic Syrup,Medication,220.43,262,13,SUP031,2025-03-10
+ITM0468,Calcium Tablets,Medication,1628.67,346,32,SUP051,2023-07-30
+ITM0469,Suture Pack,Surgical,1240.55,40,54,SUP005,
+ITM0470,IV Cannula,Surgical,127.51,320,74,SUP045,
+ITM0471,Blood Collection Tube,Diagnostic,114.59,453,65,SUP058,
+ITM0472,Face Mask,Consumable,1592.9,376,72,SUP058,
+ITM0473,Surgical Gloves,Surgical,1669.88,209,24,SUP012,
+ITM0474,IV Fluid,Medication,159.99,321,13,SUP037,2026-03-16
+ITM0475,Progesterone Tablets,Medication,2026.46,435,86,SUP030,2023-07-20
+ITM0476,Hormone Injection,Medication,421.31,270,41,SUP039,2022-10-26
+ITM0477,IV Cannula,Surgical,1508.83,62,18,SUP003,
+ITM0478,Blood Collection Tube,Diagnostic,518.5,335,98,SUP013,
+ITM0479,Cotton Roll,Consumable,165.23,294,66,SUP011,
+ITM0480,Face Mask,Consumable,676.48,280,76,SUP010,
+ITM0481,Ultrasound Gel,Diagnostic,1419.23,403,48,SUP030,
+ITM0482,Blood Collection Tube,Diagnostic,2244.53,281,49,SUP009,
+ITM0483,Surgical Gloves,Surgical,833.4,121,25,SUP030,
+ITM0484,Surgical Gloves,Surgical,2070.94,380,90,SUP029,
+ITM0485,Cotton Roll,Consumable,2594.95,462,19,SUP038,
+ITM0486,Face Mask,Consumable,845.84,488,62,SUP046,
+ITM0487,Syringe 5ml,Surgical,1590.57,227,74,SUP042,
+ITM0488,Gauze Pads,Consumable,1257.83,176,59,SUP057,
+ITM0489,Gauze Pads,Consumable,131.03,8,38,SUP049,
+ITM0490,Suture Pack,Surgical,1206.03,96,27,SUP034,
+ITM0491,Pregnancy Test Kit,Diagnostic,1162.74,145,61,SUP026,
+ITM0492,Blood Collection Tube,Diagnostic,1884.6,319,41,SUP002,
+ITM0493,Cotton Roll,Consumable,2605.97,174,42,SUP059,
+ITM0494,Cotton Roll,Consumable,2032.01,373,95,SUP056,
+ITM0495,Ultrasound Gel,Diagnostic,1098.38,461,20,SUP036,
+ITM0496,Iron Supplements,Medication,1374.17,172,38,SUP007,2024-04-27
+ITM0497,Face Mask,Consumable,2667.12,449,29,SUP052,
+ITM0498,Hormone Injection,Medication,1935.06,207,31,SUP036,2022-12-03
+ITM0499,Iron Supplements,Medication,1200.03,27,81,SUP040,2026-02-12
+ITM0500,Ultrasound Gel,Diagnostic,1820.49,462,95,SUP014,
+ITM0501,Gauze Pads,Consumable,1950.78,3,24,SUP027,
+ITM0502,Ultrasound Gel,Diagnostic,1472.71,345,44,SUP026,
+ITM0503,Surgical Gloves,Surgical,2602.87,258,89,SUP020,
+ITM0504,Pain Relief Gel,Medication,2447.53,197,43,SUP035,2026-03-04
+ITM0505,Ultrasound Gel,Diagnostic,1597.01,257,29,SUP011,
+ITM0506,Pregnancy Test Kit,Diagnostic,2877.14,143,86,SUP026,
+ITM0507,Pregnancy Test Kit,Diagnostic,2861.99,491,65,SUP057,
+ITM0508,Hormone Injection,Medication,2899.89,86,60,SUP035,2023-10-13
+ITM0509,IV Cannula,Surgical,700.49,47,86,SUP005,
+ITM0510,Sanitizer,Consumable,354.95,9,94,SUP016,
+ITM0511,Ultrasound Gel,Diagnostic,1876.33,450,59,SUP011,
+ITM0512,IV Fluid,Medication,2196.33,46,39,SUP033,2023-12-17
+ITM0513,Blood Collection Tube,Diagnostic,955.64,454,34,SUP009,
+ITM0514,Cotton Roll,Consumable,1636.15,447,83,SUP022,
+ITM0515,Cotton Roll,Consumable,1961.19,194,80,SUP005,
+ITM0516,Suture Pack,Surgical,1416.92,31,13,SUP020,
+ITM0517,Face Mask,Consumable,1646.96,456,72,SUP056,
+ITM0518,Cotton Roll,Consumable,271.82,382,31,SUP043,
+ITM0519,Cotton Roll,Consumable,2982.6,341,66,SUP034,
+ITM0520,Suture Pack,Surgical,1167.09,73,63,SUP030,
+ITM0521,Iron Supplements,Medication,655.44,462,13,SUP010,2026-01-07
+ITM0522,Face Mask,Consumable,1466.05,311,74,SUP037,
+ITM0523,IV Cannula,Surgical,986.52,144,57,SUP032,
+ITM0524,Syringe 5ml,Surgical,1205.0,484,32,SUP024,
+ITM0525,Pregnancy Test Kit,Diagnostic,1710.46,427,32,SUP017,
+ITM0526,Face Mask,Consumable,871.38,30,15,SUP044,
+ITM0527,Syringe 5ml,Surgical,2016.12,88,78,SUP003,
+ITM0528,Calcium Tablets,Medication,1323.61,347,73,SUP039,2025-11-17
+ITM0529,Calcium Tablets,Medication,298.23,185,96,SUP043,2022-01-15
+ITM0530,Folic Acid,Medication,2666.41,470,80,SUP043,2024-04-07
+ITM0531,Surgical Gloves,Surgical,1458.29,160,14,SUP026,
+ITM0532,Pain Relief Gel,Medication,2772.65,34,42,SUP012,2025-06-26
+ITM0533,Calcium Tablets,Medication,1172.89,58,35,SUP037,2025-03-25
+ITM0534,Surgical Gloves,Surgical,1650.8,446,68,SUP042,
+ITM0535,Cotton Roll,Consumable,2627.01,178,94,SUP057,
+ITM0536,Surgical Gloves,Surgical,1413.54,264,43,SUP012,
+ITM0537,Progesterone Tablets,Medication,1917.73,124,35,SUP046,2024-02-10
+ITM0538,Folic Acid,Medication,778.82,479,83,SUP033,2023-06-19
+ITM0539,Blood Collection Tube,Diagnostic,752.47,233,75,SUP027,
+ITM0540,Pregnancy Test Kit,Diagnostic,1650.81,376,29,SUP014,
+ITM0541,Face Mask,Consumable,1858.9,441,23,SUP007,
+ITM0542,Pregnancy Test Kit,Diagnostic,1984.54,269,80,SUP042,
+ITM0543,Surgical Gloves,Surgical,2317.49,72,83,SUP044,
+ITM0544,Ultrasound Gel,Diagnostic,2771.61,321,17,SUP038,
+ITM0545,Cotton Roll,Consumable,758.42,119,67,SUP048,
+ITM0546,Ultrasound Gel,Diagnostic,1877.42,3,10,SUP042,
+ITM0547,Gauze Pads,Consumable,1357.23,283,40,SUP052,
+ITM0548,Face Mask,Consumable,313.22,121,17,SUP059,
+ITM0549,Hormone Injection,Medication,1388.0,210,89,SUP044,
+ITM0550,Iron Supplements,Medication,2382.54,110,92,SUP027,2026-03-20
+ITM0551,IV Cannula,Surgical,283.41,311,99,SUP010,
+ITM0552,Ultrasound Gel,Diagnostic,1838.34,100,69,SUP042,
+ITM0553,Suture Pack,Surgical,1259.71,485,71,SUP054,
+ITM0554,Blood Collection Tube,Diagnostic,1979.49,207,19,SUP058,
+ITM0555,Blood Collection Tube,Diagnostic,2473.04,38,27,SUP043,
+ITM0556,Cotton Roll,Consumable,1647.85,59,75,SUP041,
+ITM0557,Iron Supplements,Medication,946.67,79,75,SUP009,2025-07-06
+ITM0558,Surgical Gloves,Surgical,315.94,51,61,SUP044,
+ITM0559,Pregnancy Test Kit,Diagnostic,901.67,226,76,SUP034,
+ITM0560,Sanitizer,Consumable,1125.72,274,97,SUP046,
+ITM0561,Suture Pack,Surgical,1941.76,96,18,SUP041,
+ITM0562,Pain Relief Gel,Medication,1195.64,166,57,SUP029,2023-11-25
+ITM0563,IV Fluid,Medication,1237.97,99,69,SUP018,2022-01-09
+ITM0564,Calcium Tablets,Medication,906.95,446,87,SUP054,2025-05-02
+ITM0565,Blood Collection Tube,Diagnostic,1120.5,0,61,SUP029,
+ITM0566,Suture Pack,Surgical,834.78,445,52,SUP055,
+ITM0567,Gauze Pads,Consumable,2215.68,28,84,SUP030,
+ITM0568,Hormone Injection,Medication,2949.74,403,59,SUP057,2022-07-17
+ITM0569,Cotton Roll,Consumable,2217.21,367,97,SUP059,
+ITM0570,Suture Pack,Surgical,267.21,21,23,SUP013,
+ITM0571,Pregnancy Test Kit,Diagnostic,1916.49,12,27,SUP022,
+ITM0572,Scalpel Blade,Surgical,2123.54,-1,86,SUP016,
+ITM0573,Syringe 5ml,Surgical,2345.82,112,43,SUP045,
+ITM0574,Antibiotic Syrup,Medication,2299.92,466,92,SUP032,2022-04-13
+ITM0575,Surgical Gloves,Surgical,1549.75,90,50,SUP040,
+ITM0576,Hormone Injection,Medication,824.15,207,84,SUP026,2024-01-24
+ITM0577,Ultrasound Gel,Diagnostic,405.74,249,58,SUP031,
+ITM0578,Sanitizer,Consumable,74.7,38,99,SUP044,
+ITM0579,Suture Pack,Surgical,54.48,348,78,SUP019,
+ITM0580,Ultrasound Gel,Diagnostic,2811.81,87,94,SUP042,
+ITM0581,Cotton Roll,Consumable,1843.46,241,18,SUP054,
+ITM0582,Blood Collection Tube,Diagnostic,1743.88,255,57,SUP034,
+ITM0583,Folic Acid,Medication,1161.14,311,21,SUP047,2025-08-31
+ITM0584,Pregnancy Test Kit,Diagnostic,2405.65,245,74,SUP049,
+ITM0585,Sanitizer,Consumable,699.53,236,23,SUP060,
+ITM0586,Ultrasound Gel,Diagnostic,2227.34,342,73,SUP006,
+ITM0587,Scalpel Blade,Surgical,1120.25,128,35,SUP060,
+ITM0588,Suture Pack,Surgical,2137.89,69,16,SUP035,
+ITM0589,Folic Acid,Medication,2133.87,289,64,SUP011,2023-02-03
+ITM0590,Syringe 5ml,Surgical,980.15,234,68,SUP060,
+ITM0591,Face Mask,Consumable,2806.06,130,89,SUP037,
+ITM0592,Calcium Tablets,Medication,1547.6,221,88,SUP022,2022-12-28
+ITM0593,Calcium Tablets,Medication,810.32,453,65,SUP013,
+ITM0594,Calcium Tablets,Medication,2037.69,78,77,SUP016,2026-01-11
+ITM0595,Gauze Pads,Consumable,2265.05,374,39,SUP026,
+ITM0596,Pain Relief Gel,Medication,2854.52,240,32,SUP022,2022-02-26
+ITM0597,Surgical Gloves,Surgical,266.16,237,95,SUP060,
+ITM0598,Scalpel Blade,Surgical,1642.83,421,88,SUP042,
+ITM0599,Suture Pack,Surgical,1496.61,80,26,SUP013,
+ITM0600,Iron Supplements,Medication,965.23,419,11,SUP023,2022-11-05

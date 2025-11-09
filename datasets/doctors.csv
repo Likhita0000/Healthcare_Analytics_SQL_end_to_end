@@ -1,0 +1,81 @@
+doctor_id,doctor_name,specialization,dept_id,experience_years,joining_date,consultation_fee
+DOC001,Sravani Reddy,Obstetrics and Gynecology,D04,5,2022-04-20 21:43:08.657179,60
+DOC002,Lakshmi Iyer,Breast Oncology,D05,26,2021-08-23 07:20:25.580289,90
+DOC003,Meera Patel,Reproductive Endocrinology,D03,23,2014-04-22 07:40:24.083081,60
+DOC004,Sravani Menon,Breast Oncology,D05,14,2010-10-24 04:06:46.911005,120
+DOC005,Sravani Ghosh,Radiology,D05,7,2022-04-17 06:18:50.175094,60
+DOC006,Rajani Reddy,Anesthesiology,D02,27,2023-04-04 18:03:37.193067,75
+DOC007,Anita Sharma,Radiology,D03,9,2011-03-14 22:42:23.076553,90
+DOC008,Meera Iyer,Anesthesiology,D03,15,2016-10-20 20:51:42.244230,90
+DOC009,Sunitha Ghosh,Breast Oncology,D03,15,2010-12-20 21:12:23.638652,120
+DOC010,Anita Menon,Radiology,D05,26,2020-08-24 23:00:46.450963,150
+DOC011,Meera Menon,Reproductive Endocrinology,D04,10,2020-09-20 17:04:28.160829,75
+DOC012,Rajani Iyer,Obstetrics & Gynecology,D03,28,2011-10-19 11:10:24.210102,80
+DOC013,Kavya Ghosh,Breast Oncology,D06,13,2016-08-27 02:51:04.252506,60
+DOC014,Lakshmi Reddy,Anesthesiology,D05,19,2017-09-12 03:29:54.833826,100
+DOC015,Deepa Gupta,Maternal Fetal Medicine,D02,7,2013-09-17 05:37:44.581773,60
+DOC016,Priya Nair,Anesthesiology,D04,17,2022-03-19 18:00:12.015555,60
+DOC017,Deepa Iyer,Maternal Fetal Medicine,D06,20,2015-12-04 12:06:10.504552,80
+DOC018,Priya Sharma,Obstetrics and Gynecology,D06,29,2012-12-18 22:10:52.990352,60
+DOC019,Sravani Gupta,Radiology,D02,4,2017-07-20 10:06:05.926698,75
+DOC020,Sravani Kumar,Maternal Fetal Medicine,D04,30,2020-03-21 03:18:04.860609,75
+DOC021,Priya Ghosh,Anesthesiology,D05,5,2012-10-25 11:38:57.446435,90
+DOC022,Lakshmi Reddy,Obstetrics and Gynecology,D01,23,2014-05-13 19:19:46.337215,120
+DOC023,Kavya Menon,Obstetrics & Gynecology,D04,7,2023-12-07 04:46:04.276458,150
+DOC024,Sravani Gupta,Reproductive Endocrinology,D02,13,2019-02-05 19:50:10.352589,100
+DOC025,Sravani Menon,Reproductive Endocrinology,D06,15,2016-02-19 00:08:14.990340,60
+DOC026,Lakshmi Ghosh,Reproductive Endocrinology,D05,11,2017-03-31 08:45:59.778574,60
+DOC027,Priya Ghosh,Maternal Fetal Medicine,D04,29,2011-09-11 16:40:00.780192,80
+DOC028,Meera Sharma,Obstetrics & Gynecology,D01,4,2013-02-22 21:03:34.638539,120
+DOC029,Anita Iyer,Maternal Fetal Medicine,D01,13,2014-09-25 15:09:19.808059,75
+DOC030,Lakshmi Sharma,Radiology,D03,7,2018-03-28 00:32:22.053566,100
+DOC031,Meera Sharma,Maternal Fetal Medicine,D03,27,2013-03-22 13:50:20.639008,90
+DOC032,Rajani Nair,Obstetrics & Gynecology,,19,2013-01-30 23:18:56.450951,75
+DOC033,Kavya Kumar,Obstetrics & Gynecology,D04,22,2010-12-29 23:42:12.853225,120
+DOC034,Deepa Kumar,Radiology,D04,28,2018-11-01 19:54:21.933102,150
+DOC035,Priya Iyer,Obstetrics & Gynecology,D06,2,2013-03-16 13:54:15.030124,90
+DOC036,Lakshmi Sharma,Anesthesiology,D06,10,2022-09-04 09:54:02.289629,150
+DOC037,Niharika Patel,Obstetrics & Gynecology,D06,13,2022-01-13 07:34:45.249376,80
+DOC038,Sunitha Iyer,Reproductive Endocrinology,D03,30,2010-12-29 07:02:49.630331,80
+DOC039,Deepa Varma,Anesthesiology,D04,25,2013-05-01 22:01:28.893677,60
+DOC040,Rajani Nair,Anesthesiology,D04,21,2019-05-14 11:36:04.069056,150
+DOC041,Sunitha Iyer,Radiology,D01,6,2012-12-31 09:25:37.581748,120
+DOC042,Priya Reddy,Fertility,D03,28,2011-11-08 12:15:05.690683,100
+DOC043,Meera Reddy,Fertility,D05,28,2023-02-05 06:49:24.564487,90
+DOC044,Priya Gupta,Obstetrics & Gynecology,D03,12,2017-12-29 17:50:24.245276,75
+DOC045,Lakshmi Sharma,Anesthesiology,D05,12,2016-08-13 18:24:25.130782,120
+DOC046,Meera Ghosh,Fertility,D01,20,2020-12-25 18:13:07.656841,120
+DOC047,Priya Iyer,Fertility,D02,30,2021-04-21 17:34:17.723785,80
+DOC048,Kavya Gupta,Obstetrics & Gynecology,D04,30,2012-08-31 13:34:53.080229,150
+DOC049,Kavya Patel,Fertility,D01,11,2011-05-11 14:34:26.672331,60
+DOC050,Lakshmi Patel,Maternal Fetal Medicine,D04,26,2016-01-13 23:09:09.703625,60
+DOC051,Meera Menon,Obstetrics and Gynecology,D06,23,2015-12-06 18:10:47.956874,90
+DOC052,Sunitha Nair,Radiology,D02,28,2016-07-15 21:31:51.830819,80
+DOC053,Niharika Gupta,Obstetrics and Gynecology,D02,25,2020-03-16 18:21:20.300102,120
+DOC054,Niharika Gupta,Obstetrics & Gynecology,D01,7,2019-06-05 21:54:37.178840,100
+DOC055,Priya Iyer,Reproductive Endocrinology,D02,30,2023-10-12 00:52:53.101706,80
+DOC056,Deepa Menon,Radiology,,1,2011-05-19 05:03:13.697277,90
+DOC057,Kavya Sharma,Obstetrics & Gynecology,D02,1,2015-08-21 14:27:45.969601,90
+DOC058,Anita Sharma,Anesthesiology,D04,25,2014-10-01 20:30:04.727616,80
+DOC059,Deepa Patel,Reproductive Endocrinology,D04,27,2022-01-23 17:33:37.011325,90
+DOC060,Rajani Ghosh,Obstetrics and Gynecology,D04,30,2013-06-25 09:06:57.772894,80
+DOC061,Sravani Gupta,Obstetrics & Gynecology,D04,25,2012-08-30 12:54:56.061320,75
+DOC062,Rajani Ghosh,Anesthesiology,D05,20,2016-04-12 18:15:56.454117,80
+DOC063,Kavya Menon,Radiology,D03,13,2015-11-28 01:56:23.234494,150
+DOC064,Lakshmi Menon,Radiology,D06,9,2013-11-25 04:49:54.452531,80
+DOC065,Anita Sharma,Breast Oncology,D01,3,2013-07-01 06:14:55.797030,90
+DOC066,Sunitha Nair,Anesthesiology,D04,7,2022-12-04 15:46:05.586089,150
+DOC067,Priya Sharma,Maternal Fetal Medicine,D02,6,2016-03-15 17:27:35.953199,90
+DOC068,Lakshmi Gupta,Fertility,D04,8,2022-01-22 01:52:16.836721,60
+DOC069,Deepa Varma,Reproductive Endocrinology,D02,27,2017-09-14 19:31:11.068845,60
+DOC070,Anita Nair,Anesthesiology,D06,9,2010-09-16 15:47:42.333566,150
+DOC071,Sunitha Patel,Breast Oncology,D06,30,2023-12-28 07:57:00.949905,75
+DOC072,Sunitha Sharma,Fertility,D06,5,2021-09-14 14:37:01.273192,60
+DOC073,Lakshmi Menon,Fertility,D02,1,2023-07-26 11:28:07.406135,80
+DOC074,Niharika Iyer,Obstetrics & Gynecology,D04,19,2022-12-20 12:20:42.788016,90
+DOC075,Deepa Kumar,Fertility,D06,10,2021-11-18 09:09:03.461214,60
+DOC076,Deepa Menon,Maternal Fetal Medicine,D05,12,2012-04-30 08:22:08.415939,60
+DOC077,Sunitha Reddy,Radiology,D02,24,2016-10-19 01:59:37.630711,75
+DOC078,Niharika Kumar,Breast Oncology,D02,15,2012-12-28 21:21:30.885588,150
+DOC079,Kavya Reddy,Fertility,D04,27,2015-08-13 12:27:22.965582,150
+DOC080,Sravani Kumar,Obstetrics & Gynecology,D02,22,2010-10-27 19:16:01.924990,120
